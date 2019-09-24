@@ -1,7 +1,8 @@
 # MaschineLearning
-## Nothing fancy, just testing AutoML with H2O AutoML
+## Nothing fancy, just my first AutoML tests with H2O-AutoML
 
-All you need is:
+
+Used:
 * honestly just h2o and pyhton
 * anaconda is nice
 * numpy if you need it
