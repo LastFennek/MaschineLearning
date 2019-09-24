@@ -4,6 +4,7 @@
 
 Used:
 * honestly just h2o and pyhton
+* Jupyter notebook, its nice. (i assume its bad for larger projects (?))
 * anaconda is nice
 * numpy if you need it
 * pandas (i have no idea what pandas is used for, but the name is great)
